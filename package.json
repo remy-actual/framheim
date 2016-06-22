@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
   "name": "Framheim",
-  "description": "Jekyll static website scaffold utilizing NodeJS as a build system and Foundation 6 for front-end framework.",
+  "description": "Opinionated build system for Jekyll static websites publishing by Github Pages. Utilizes NPM scripts for local development with Webpack for asset bundling and Zurb Foundation 6 for a front-end framework.",
   "keywords": [
     "web",
     "build",
